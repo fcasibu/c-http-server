@@ -6,6 +6,8 @@ project inspiration from [https://github.com/dexter-xD/project-box/](https://git
 
 ## TODOs
 
-- [ ] serve files
-- [ ] handle directories
+- [x] serve files
+- [x] handle directories
+- [ ] maybe parse request body and handle POST
+- [ ] create simple todo web app
 - [ ] improve security of everything
